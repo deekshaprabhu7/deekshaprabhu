@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>deeksha7 [at] uw [dot] edu</p>
     <p>University of Washington</p>
     <p>Seattle, WA 98105</p>
 
