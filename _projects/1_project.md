@@ -39,4 +39,3 @@ This hovercraft significantly enhances the capabilities of rescue teams by provi
         {% include figure.liquid loading="eager" path="assets/img/hovercraft-top.jpg" title="Hovercraft Top View" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-{% endraw %}
