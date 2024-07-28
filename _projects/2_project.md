@@ -2,7 +2,7 @@
 layout: page
 title: Road Accident Prevention System
 description: Cost effective Road Accident Prevention System
-img: assets/img/hovercraft-side.jpg
+img: assets/img/road-accident-prevention-system-AIgenerated.jpg
 importance: 2
 category: work
 related_publications: true
