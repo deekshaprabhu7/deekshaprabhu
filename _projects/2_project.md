@@ -8,12 +8,15 @@ category: work
 related_publications: true
 ---
 
-In today’s fast-paced world, road safety is of paramount importance. Our team of 3 at Manipal Institute of Technology developed a cutting-edge Road Accident Prevention System designed to enhance driver awareness and prevent accidents. This advanced system monitors the driver’s condition and behavior, ensuring a safer driving experience.
+In today’s fast-paced world, road safety is of paramount importance. Our team of 3 at Manipal Institute of Technology, India developed a cutting-edge Road Accident Prevention System designed to enhance driver awareness and prevent accidents. This advanced system monitors the driver’s condition and behavior, ensuring a safer driving experience.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/road-accident-prevention-system-AIgenerated.jpg" title="Road Accident Prevention System AI generated image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    AI generated image of Road Accident Prevention System
 </div>
 
 **Key Features:**
