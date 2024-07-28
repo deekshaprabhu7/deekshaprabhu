@@ -28,8 +28,8 @@ The ODESSA system, developed as part of the EE516 - Computer Speech Processing c
 **Robust Performance:**  Demonstrates low Word Error Rates (WER) across various utterances and acoustic conditions.
 
 **Resources:**
-**Code:** [GitHub](https://github.com/deekshaprabhu7/Odessa)
-**Report:** assets/pdf/ODESSA.pdf
+- **Code:** [GitHub](https://github.com/deekshaprabhu7/Odessa)
+- **Report:** [ODESSA Report](assets/pdf/ODESSA.pdf)
 
 
 This project showcases the practical application of HMMs in speech recognition, offering a reliable solution for resource-constrained environments.
