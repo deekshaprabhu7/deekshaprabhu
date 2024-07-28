@@ -19,7 +19,8 @@ In 2014, our team of three designed an Intel Galileo-based amphibious vehicle ca
 **Key Features:**
 
 **Versatility:** Operates efficiently on both land and water, assisting in diverse rescue missions.
-Advanced Sensors: Equipped with cameras, IR sensors, ultrasonic sensors, environmental sensors and sound sensors to detect and relay crucial information.
+
+**Advanced Sensors:** Equipped with cameras, IR sensors, ultrasonic sensors, environmental sensors and sound sensors to detect and relay crucial information.
 
 **Live Monitoring:** Capable of silent entry into hazardous areas for enemy monitoring and reconnaissance.
 
