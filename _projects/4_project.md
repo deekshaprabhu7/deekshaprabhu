@@ -8,9 +8,8 @@ category: work
 related_publications: false
 ---
 
-As part of my undergraduate program at Manipal Institute of Technology, Manipal, I completed an internship at GE Healthcare where I developed an advanced Industrial IoT (IIoT) solution to optimize manufacturing processes.
+As part of my u ndergraduate program at Manipal Institute of Technology, Manipal, I completed an internship at GE Healthcare where I developed an advanced Industrial IoT (IIoT) solution to optimize manufacturing processes.
 
-<div class="row">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IIOT.jpg" title="IIoT AI generated image" class="img-fluid rounded z-depth-1" %}
