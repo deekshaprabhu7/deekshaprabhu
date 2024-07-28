@@ -5,10 +5,16 @@ description: Amphibious Rescue and Surveillance Robot - A Modern Hovercraft
 img: assets/img/hovercraft-side.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 In 2014, our team of three designed an Intel Galileo-based amphibious vehicle capable of performing rescue and surveillance operations in disaster-affected and inaccessible regions. This innovative hovercraft can be remotely controlled and is equipped with an array of environmental sensors and a live video streaming system, enabling real-time data collection and situational awareness.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hovercraft-side.jpg" title="Hovercraft Side View" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 **Key Features:**
 
