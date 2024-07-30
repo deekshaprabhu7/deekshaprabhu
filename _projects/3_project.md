@@ -30,7 +30,7 @@ The ODESSA system, developed as part of the EE516 - Computer Speech Processing c
 **Resources:**
 - **Code:** [GitHub](https://github.com/deekshaprabhu7/Odessa)
 - **Report:** [ODESSA Report](/assets/pdf/ODESSA.pdf)
-
+- **Presentation:** [ODESSA Presentation](/assets/pdf/OdessaV2.pdf)
 
 This project showcases the practical application of HMMs in speech recognition, offering a reliable solution for resource-constrained environments.
 
