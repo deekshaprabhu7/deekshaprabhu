@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined GE Healthcare as a Software Engineer, specializing in developing firmware for medical diagnostic equipment.
+Joined GE Healthcare as a Software Engineer, specializing in developing firmware for medical diagnostic equipment

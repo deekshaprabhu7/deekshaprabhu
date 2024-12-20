@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won the Intel India Embedded Challenge 2014 in the "Internet of Things and Intelligent Systems" category for designing the "Amphibious Rescue and Surveillance Robot - A Modern Hovercraft." :trophy:
+Won the Intel India Embedded Challenge 2014 in the "Internet of Things and Intelligent Systems" category for designing the "Amphibious Rescue and Surveillance Robot - A Modern Hovercraft" :trophy:

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began my master's studies in Electrical and Computer Engineering at the University of Washington.
+Began my master's studies in Electrical and Computer Engineering at the University of Washington
